@@ -1,0 +1,1273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="39f5f584-c99f-43b6-82b0-f2b7a6a25419" name="Default" comment="">
+      <change afterPath="$APPLICATION_CONFIG_DIR$/consoles/db/2ce80c52-a19b-497c-92b4-8481cc109ac7/console.sql" afterDir="false" />
+      <change afterPath="$APPLICATION_CONFIG_DIR$/consoles/db/cd0f5daf-d2df-4cbf-ad34-c39499da27f1/console.sql" afterDir="false" />
+      <change afterPath="$USER_HOME$/.PhpStorm2017.3/config/consoles/db/00f80440-51fd-4ce3-aa54-d0d2f3a6cca0/console.sql" afterDir="false" />
+      <change afterPath="$USER_HOME$/.PhpStorm2017.3/config/options/databaseDrivers.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/.PhpStorm2017.3/config/options/php.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module 6/AI/Snake/.gitignore" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module 6/AI/Snake/README.txt" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module 6/AI/Snake/agent.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module 6/AI/Snake/board.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module 6/AI/Snake/gameobjects.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module 6/AI/Snake/main.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module 6/AI/Snake/move.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module 6/AI/Snake/snake.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/exam1/q1_2/Duration.g4" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/exam1/q1_2/Duration.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/exam1/q1_2/Duration.tokens" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/exam1/q1_2/DurationTest.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/exam1/q1_2/LexerTester.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/exam1/q1_3/JSON.g4" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/exam1/q1_4/SeriesChecker.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/exam1/q1_4/SeriesTest.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/exam1/q1_4/Tree.g4" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/exam1/q1_4/Tree.tokens" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/exam1/q1_4/TreeBaseListener.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/exam1/q1_4/TreeLexer.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/exam1/q1_4/TreeLexer.tokens" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/exam1/q1_4/TreeListener.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/exam1/q1_4/TreeParser.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/exam1/q1_5/Schema.g4" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/exam1/q1_5/Schema.tokens" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/exam1/q1_5/SchemaBaseListener.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/exam1/q1_5/SchemaChecker.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/exam1/q1_5/SchemaLexer.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/exam1/q1_5/SchemaLexer.tokens" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/exam1/q1_5/SchemaListener.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/exam1/q1_5/SchemaParser.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/exam1/q1_5/SchemaSymbolTable.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/exam1/q1_5/correct.schema" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/exam1/q1_5/erroneous.schema" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/exam1/q1_5/house.schema" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/exam1/q1_5/wrong.schema" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/iloc/Assembler.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/iloc/Simulator.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/iloc/eval/Machine.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/iloc/eval/Memory.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/iloc/model/Instr.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/iloc/model/Label.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/iloc/model/Num.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/iloc/model/Op.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/iloc/model/OpClaz.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/iloc/model/OpCode.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/iloc/model/OpList.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/iloc/model/Operand.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/iloc/model/Program.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/iloc/model/Reg.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/iloc/model/Str.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/iloc/parse/ErrorListener.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/iloc/parse/FormatException.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/iloc/parse/ILOC.g4" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/iloc/parse/ILOCBaseListener.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/iloc/parse/ILOCLexer.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/iloc/parse/ILOCListener.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/iloc/parse/ILOCParser.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/iloc/sample/fig1-3-init.iloc" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/iloc/sample/fig1-3-stack.iloc" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/iloc/sample/fig1-3.iloc" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/iloc/sample/string.iloc" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/iloc/sample/string4.iloc" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/iloc/test/AssemblerTest.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/iloc/test/SimulatorTest.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/q2_1/Fragment.g4" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/q2_1/Fragment.tokens" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/q2_1/FragmentBaseListener.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/q2_1/FragmentLexer.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/q2_1/FragmentLexer.tokens" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/q2_1/FragmentListener.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/q2_1/FragmentParser.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/q2_1/Snippet.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/q2_2/IlocTest.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/q2_2/snippet.iloc" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/q2_3/ArraySum.pascal" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/q2_3/FuncPascal6.g4" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/q2_3/FuncPascal6.tokens" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/q2_3/FuncPascal6BaseListener.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/q2_3/FuncPascal6Lexer.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/q2_3/FuncPascal6Lexer.tokens" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/q2_3/FuncPascal6Listener.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/q2_3/FuncPascal6Parser.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/q2_3/Pascal.g4" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/q2_3/Pascal.tokens" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/q2_3/PascalBaseListener.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/q2_3/PascalLexer.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/q2_3/PascalLexer.tokens" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/q2_3/PascalListener.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/q2_3/PascalParser.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/q2_3/SimplePascal6.g4" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/q2_3/SimplePascal6.tokens" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/q2_3/SimplePascal6BaseListener.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/q2_3/SimplePascal6Lexer.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/q2_3/SimplePascal6Lexer.tokens" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/q2_3/SimplePascal6Listener.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/q2_3/SimplePascal6Parser.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/q2_4/IlocTest.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/HomeworkTestsPP/src/pp/s1797646/q2_4/arraysum.iloc" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/.idea/PP.iml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block1/cc/antlr/Example.g4" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block1/cc/antlr/Example.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block1/cc/antlr/Example.tokens" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block1/cc/antlr/ExampleUsage.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block1/cc/antlr/ID6.g4" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block1/cc/antlr/ID6.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block1/cc/antlr/ID6.tokens" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block1/cc/antlr/La.g4" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block1/cc/antlr/La.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block1/cc/antlr/La.tokens" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block1/cc/antlr/PL.g4" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block1/cc/antlr/PL.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block1/cc/antlr/PL.tokens" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block1/cc/dfa/Checker.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block1/cc/dfa/EfficientChecker.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block1/cc/dfa/EfficientScanner.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block1/cc/dfa/Scanner.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block1/cc/dfa/State.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block1/cc/test/CheckerTest.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block1/cc/test/ExampleTest.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block1/cc/test/ID6Test.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block1/cc/test/LaTest.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block1/cc/test/LexerTester.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block1/cc/test/PLTest.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block1/cc/test/ScannerTest.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block2/cc/AST.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block2/cc/NonTerm.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block2/cc/ParseException.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block2/cc/Parser.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block2/cc/Symbol.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block2/cc/SymbolFactory.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block2/cc/Term.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block2/cc/antlr/Sentence.g4" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block2/cc/antlr/Sentence.tokens" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block2/cc/antlr/SentenceBaseListener.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block2/cc/antlr/SentenceConverter.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block2/cc/antlr/SentenceCounter.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block2/cc/antlr/SentenceLexer.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block2/cc/antlr/SentenceLexer.tokens" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block2/cc/antlr/SentenceListener.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block2/cc/antlr/SentenceMod.g4" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block2/cc/antlr/SentenceMod.tokens" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block2/cc/antlr/SentenceModBaseListener.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block2/cc/antlr/SentenceModLexer.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block2/cc/antlr/SentenceModLexer.tokens" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block2/cc/antlr/SentenceModListener.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block2/cc/antlr/SentenceModParser.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block2/cc/antlr/SentenceModUsage.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block2/cc/antlr/SentenceParser.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block2/cc/antlr/SentenceUsage.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block2/cc/antlr/arithmetic/Arithmetic.g4" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block2/cc/antlr/arithmetic/Arithmetic.tokens" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block2/cc/antlr/arithmetic/ArithmeticBaseListener.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block2/cc/antlr/arithmetic/ArithmeticLexer.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block2/cc/antlr/arithmetic/ArithmeticLexer.tokens" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block2/cc/antlr/arithmetic/ArithmeticListener.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block2/cc/antlr/arithmetic/ArithmeticParser.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block2/cc/antlr/arithmetic/ArithmeticUsage.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block2/cc/antlr/arithmetic/Calculator.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block2/cc/ll/BasicLLCalc.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block2/cc/ll/GenericLLParser.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block2/cc/ll/Grammar.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block2/cc/ll/Grammars.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block2/cc/ll/If.g4" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block2/cc/ll/If.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block2/cc/ll/If.tokens" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block2/cc/ll/LLCalc.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block2/cc/ll/LRQ.g4" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block2/cc/ll/LRQ.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block2/cc/ll/LRQ.tokens" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block2/cc/ll/LrqParser.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block2/cc/ll/Rule.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block2/cc/ll/Sentence.g4" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block2/cc/ll/Sentence.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block2/cc/ll/Sentence.tokens" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block2/cc/ll/SentenceParser.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block2/cc/test/GenericLLParserTest.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block2/cc/test/LLCalcTest.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block2/cc/test/SentenceConverterTest.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block2/cp/annotation/Point.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block2/cp/annotation/RandomDrift.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block2/cp/annotation/RandomPointTest.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block2/cp/listings/UnsafeSequence.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block2/cp/queue/LinkedQueue.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block2/cp/queue/Queue.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block2/cp/queue/QueueEmptyException.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block2/cp/queue/SafeLinkedQueue.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block2/cp/tests/LinkedQueueTest.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block2/cp/tests/SimpleDateFormatTest.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block2/cp/tests/ThreadedTimerPoolTest.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block2/cp/tests/ThreadedTimerTest.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block2/cp/tests/UnsafeSequenceTest.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block2/cp/timer/ThreadedTimer.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block2/cp/timer/ThreadedTimerPool.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block3/cc/antlr/Calc.g4" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block3/cc/antlr/Calc.tokens" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block3/cc/antlr/CalcAttr.g4" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block3/cc/antlr/CalcAttr.tokens" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block3/cc/antlr/CalcAttrBaseListener.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block3/cc/antlr/CalcAttrLexer.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block3/cc/antlr/CalcAttrLexer.tokens" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block3/cc/antlr/CalcAttrListener.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block3/cc/antlr/CalcAttrParser.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block3/cc/antlr/CalcBaseListener.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block3/cc/antlr/CalcLexer.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block3/cc/antlr/CalcLexer.tokens" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block3/cc/antlr/CalcListener.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block3/cc/antlr/CalcParser.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block3/cc/antlr/CalcVocab.g4" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block3/cc/antlr/CalcVocab.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block3/cc/antlr/CalcVocab.tokens" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block3/cc/antlr/Calculator.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block3/cc/antlr/T.g4" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block3/cc/antlr/T.tokens" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block3/cc/antlr/TAttr.g4" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block3/cc/antlr/TAttr.tokens" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block3/cc/antlr/TAttrBaseListener.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block3/cc/antlr/TAttrLexer.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block3/cc/antlr/TAttrLexer.tokens" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block3/cc/antlr/TAttrListener.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block3/cc/antlr/TAttrParser.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block3/cc/antlr/TBaseListener.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block3/cc/antlr/TConverter.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block3/cc/antlr/TLexer.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block3/cc/antlr/TLexer.tokens" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block3/cc/antlr/TListener.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block3/cc/antlr/TParser.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block3/cc/antlr/TVocab.g4" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block3/cc/antlr/TVocab.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block3/cc/antlr/TVocab.tokens" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block3/cc/antlr/Type.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block3/cc/symbol/BasicSymbolTable.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block3/cc/symbol/DeclUse.g4" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block3/cc/symbol/DeclUse.tokens" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block3/cc/symbol/DeclUseBaseListener.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block3/cc/symbol/DeclUseConverter.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block3/cc/symbol/DeclUseLexer.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block3/cc/symbol/DeclUseLexer.tokens" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block3/cc/symbol/DeclUseListener.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block3/cc/symbol/DeclUseParser.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block3/cc/symbol/SymbolTable.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block3/cc/symbol/declexamplecorrect.txt" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block3/cc/symbol/declexamplewrong.txt" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block3/cc/tabular/HTMLListener.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block3/cc/tabular/SimpleErrorListener.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block3/cc/tabular/Tabular.g4" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block3/cc/tabular/Tabular.tokens" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block3/cc/tabular/TabularBaseListener.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block3/cc/tabular/TabularLexer.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block3/cc/tabular/TabularLexer.tokens" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block3/cc/tabular/TabularListener.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block3/cc/tabular/TabularParser.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block3/cc/tabular/tabular-1.html" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block3/cc/tabular/tabular-1.tex" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block3/cc/tabular/tabular-2.html" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block3/cc/tabular/tabular-2.tex" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block3/cc/tabular/tabular-3.html" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block3/cc/tabular/tabular-3.tex" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block3/cc/tabular/tabular-4.tex" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block3/cc/tabular/tabular-5.html" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block3/cc/tabular/tabular-5.tex" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block3/cc/test/CalcTest.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block3/cc/test/DeclUseTest.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block3/cc/test/SymbolTableTest.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block3/cc/test/TTest.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block3/cp/hotel/Hotel.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block3/cp/hotel/Person.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block3/cp/jml/Point.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block3/cp/lockcoupling/ConcurrentLinkedList.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block3/cp/lockcoupling/List.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block3/cp/mapreduce/MapReduceBase.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block3/cp/mapreduce/SumArray.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block3/cp/synchronizers/BasicLock.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block3/cp/synchronizers/DekkerLock.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block3/cp/tests/ListTest.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block3/cp/tests/LockTest.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block4/cc/ErrorListener.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block4/cc/cfg/BottomUpCFGBuilder.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block4/cc/cfg/Fragment.g4" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block4/cc/cfg/FragmentBaseListener.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block4/cc/cfg/FragmentLexer.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block4/cc/cfg/FragmentListener.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block4/cc/cfg/FragmentParser.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block4/cc/cfg/Graph.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block4/cc/cfg/Node.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block4/cc/cfg/TopDownCFGBuilder.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block4/cc/cfg/java.txt" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block4/cc/iloc/Calc.g4" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block4/cc/iloc/Calc.tokens" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block4/cc/iloc/CalcBaseListener.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block4/cc/iloc/CalcCompiler.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block4/cc/iloc/CalcLexer.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block4/cc/iloc/CalcLexer.tokens" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block4/cc/iloc/CalcListener.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block4/cc/iloc/CalcParser.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block4/cc/iloc/Samples.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block4/cc/iloc/fibmm.iloc" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block4/cc/iloc/fibrr.iloc" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block4/cc/iloc/find.iloc" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block4/cc/iloc/max.iloc" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block4/cc/test/CalcCompilerTest.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block4/cc/test/FibTest.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block4/cc/test/FindTest.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block4/cc/test/MaxTest.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block4/cp/CopyWriteList.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block4/cp/listings/LeftRightDeadlock.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block4/cp/listings/LockTest.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block5/cc/ErrorListener.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block5/cc/ParseException.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block5/cc/SimplePascalCompiler.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block5/cc/antlr/Building.g4" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block5/cc/antlr/Elevator.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block5/cc/antlr/NumWord.g4" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block5/cc/antlr/NumWordGroup.g4" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block5/cc/antlr/NumWordGroupProcessor.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block5/cc/antlr/NumWordProcessor.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block5/cc/pascal/ArrayPascal.g4" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block5/cc/pascal/ProcPascal.g4" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block5/cc/pascal/SimplePascal.g4" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block5/cc/pascal/gauss.pascal" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block5/cc/sample/basic.pascal" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block5/cc/sample/fib.pascal" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block5/cc/sample/gcd.pascal" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block5/cc/sample/prime.pascal" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block5/cc/sample/typeErr1.pascal" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block5/cc/sample/typeErr2.pascal" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block5/cc/simple/Checker.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block5/cc/simple/Generator.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block5/cc/simple/Result.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block5/cc/simple/Scope.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block5/cc/simple/Type.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block5/cc/simple/TypeKind.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block5/cc/test/SimpleCheckerTest.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block5/cc/test/SimpleGeneratorTest.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block5/cp/parallelization/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block5/cp/parallelization/Parallelization.project" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block5/cp/parallelization/Parallelization.workspace" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block5/cp/parallelization/kernels.h" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block5/cp/parallelization/kernels_opencl.c" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block5/cp/parallelization/kernels_openmp.c" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block5/cp/parallelization/kernels_sequential.c" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block5/cp/parallelization/main.cpp" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block5/cp/parallelization/matrix.c" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block5/cp/parallelization/matrix.h" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block5/cp/parallelization/tests.cpp" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block5/cp/parallelization/tests.h" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block5/cp/parallelization/vector.c" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block5/cp/parallelization/vector.h" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block6/cc/ErrorListener.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block6/cc/ParseException.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block6/cc/func/Checker.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block6/cc/func/Generator.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block6/cc/func/Result.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block6/cc/func/Scope.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block6/cc/func/SymbolTable.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block6/cc/func/Type.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block6/cc/func/TypeKind.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block6/cc/pascal/FuncPascal6.g4" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block6/cc/pascal/SimplePascal6.g4" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block6/cc/sample/calcs.pascal" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block6/cc/sample/fib.iloc" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block6/cc/sample/fib.pascal" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block6/cc/test/FuncCheckerTest.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block6/cc/test/IlocTest.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block6/cp/phaskell/qsort.hs" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block6/cp/phaskell/queue.hs" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block6/cp/phaskell/wait.hs" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block6/cp/philosophers/philosophers.rs" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block6/cp/threads/array_reset1.rs" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block6/cp/threads/array_reset2.rs" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block6/cp/threads/array_sum1.rs" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block6/cp/threads/array_sum2.rs" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block7/cp/barrier/Barrier.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block7/cp/barrier/CyclicBarrier.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block7/cp/barrier/CyclicBarrierTest.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block7/cp/lockfreestack/LockFreeStack.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block7/cp/lockfreestack/LockFreeStackInterface.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/block7/cp/lockfreestack/LockFreeStackTest.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/iloc/Assembler.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/iloc/Simulator.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/iloc/eval/Machine.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/iloc/eval/Memory.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/iloc/model/Instr.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/iloc/model/Label.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/iloc/model/Num.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/iloc/model/Op.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/iloc/model/OpClaz.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/iloc/model/OpCode.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/iloc/model/OpList.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/iloc/model/Operand.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/iloc/model/Program.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/iloc/model/Reg.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/iloc/model/Str.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/iloc/parse/ErrorListener.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/iloc/parse/FormatException.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/iloc/parse/ILOC.g4" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/iloc/parse/ILOCBaseListener.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/iloc/parse/ILOCLexer.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/iloc/parse/ILOCListener.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/iloc/parse/ILOCParser.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/iloc/sample/fig1-3-init.iloc" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/iloc/sample/fig1-3-stack.iloc" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/iloc/sample/fig1-3.iloc" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/iloc/sample/string.iloc" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/iloc/sample/string4.iloc" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/iloc/test/AssemblerTest.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/PP/src/pp/iloc/test/SimulatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPlay/src/main/java/com/arman/jfx/Album.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPlay/src/main/java/com/arman/jfx/EqualizerPresets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPlay/src/main/java/com/arman/jfx/FXMLController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPlay/src/main/java/com/arman/jfx/FXMLTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPlay/src/main/java/com/arman/jfx/FXPlayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPlay/src/main/java/com/arman/jfx/PlayButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPlay/src/main/java/com/arman/jfx/PlayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPlay/src/main/java/com/arman/jfx/PreviousButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPlay/src/main/java/com/arman/jfx/RepeatButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPlay/src/main/java/com/arman/jfx/RootLayout.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPlay/src/main/java/com/arman/jfx/SeekBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPlay/src/main/java/com/arman/jfx/SkipButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPlay/src/main/java/com/arman/jfx/SmartSplashPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPlay/src/main/java/com/arman/jfx/Song.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPlay/src/main/java/com/arman/jfx/SplashPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPlay/src/main/java/com/arman/jfx/SplashScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPlay/src/main/java/com/arman/jfx/ThemeSpinner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPlay/src/main/java/com/arman/jfx/VolumeSlider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPlay/src/main/java/com/arman/jfx/darktheme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPlay/src/main/java/com/arman/jfx/dialog.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPlay/src/main/java/com/arman/jfx/test/SplashScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPlay/src/main/java/com/arman/jfx/util/IconConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPlay/src/main/java/com/arman/jfx/util/ImageViewer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPlay/src/main/java/com/arman/jfx/util/KeepAwakeThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPlay/src/main/java/com/arman/jfx/util/TimeFormatter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPlay/src/test/java/com/arman/jfx/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MarkAsPlainText/src/com/arman/plugins/marktext/UnMarkPlainText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/geom/Matrix4D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/geom/Quaternion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/geom/Vector2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/main/Camera.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/main/MeshLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/main/Scene.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/main/Time.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/main/View.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/models/Edge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/models/Face.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/models/Model.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/models/Vertex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/parsers/MaterialParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/pipelines/ApplicationPipeline.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/pipelines/ClippingPipeline.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/pipelines/GeometryPipeline.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/pipelines/GraphicsPipeline.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/pipelines/LightingPipeline.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/pipelines/Pipeline.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/pipelines/ProjectionPipeline.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/pipelines/RasterizationPipeline.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/projectors/Orthographic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/projectors/Projection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/rasterizers/TriangleRasterizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/renderers/BasicRenderer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/renderers/BoundingBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/renderers/EdgeData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/renderers/GlobalEdgeTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/renderers/Graphics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/renderers/Renderer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/renderers/ScanConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/renderers/ScanLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/renderers/ScanLineRenderer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/renderers/ZBuffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/renderers/ZBufferRenderer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/util/ExtraMath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arman/voip/AEC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arman/voip/AudioInputDevice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arman/voip/AudioOutputDevice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arman/voip/Lobby.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arman/voip/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arman/voip/ServerLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arman/voip/VoIPClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arman/voip/VoIPClientHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arman/voip/VoIPServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arman/voip/messages/FileMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arman/voip/messages/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arman/voip/messages/TextMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arman/voip/messages/handlers/ClientMessageHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arman/voip/messages/handlers/MessageHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arman/voip/messages/handlers/ServerMessageHandler.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/PhpstormProjects/PHPLogin/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/PhpstormProjects/PHPLogin/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/PhpstormProjects/PHPLogin/error.php" afterDir="false" />
+      <change afterPath="$USER_HOME$/PhpstormProjects/PHPLogin/includes/db_connect.php" afterDir="false" />
+      <change afterPath="$USER_HOME$/PhpstormProjects/PHPLogin/includes/functions.php" afterDir="false" />
+      <change afterPath="$USER_HOME$/PhpstormProjects/PHPLogin/includes/login.php" afterDir="false" />
+      <change afterPath="$USER_HOME$/PhpstormProjects/PHPLogin/includes/logout.php" afterDir="false" />
+      <change afterPath="$USER_HOME$/PhpstormProjects/PHPLogin/includes/psl-config.php" afterDir="false" />
+      <change afterPath="$USER_HOME$/PhpstormProjects/PHPLogin/includes/register.inc.php" afterDir="false" />
+      <change afterPath="$USER_HOME$/PhpstormProjects/PHPLogin/includes/test.php" afterDir="false" />
+      <change afterPath="$USER_HOME$/PhpstormProjects/PHPLogin/index.php" afterDir="false" />
+      <change afterPath="$USER_HOME$/PhpstormProjects/PHPLogin/js/forms.js" afterDir="false" />
+      <change afterPath="$USER_HOME$/PhpstormProjects/PHPLogin/js/sha512.js" afterDir="false" />
+      <change afterPath="$USER_HOME$/PhpstormProjects/PHPLogin/register.php" afterDir="false" />
+      <change afterPath="$USER_HOME$/PhpstormProjects/PHPLogin/register_success.php" afterDir="false" />
+      <change afterPath="$USER_HOME$/PycharmProjects/GeneticPool/Ball.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/PycharmProjects/GeneticPool/Collisions.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/PycharmProjects/GeneticPool/Cue.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/PycharmProjects/GeneticPool/Game.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/PycharmProjects/GeneticPool/GameEvents.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/PycharmProjects/GeneticPool/Physics.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/PycharmProjects/GeneticPool/Rules.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/PycharmProjects/GeneticPool/Table.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/PycharmProjects/GeneticPool/Window.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Downloads/Download-v3.zip" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>readLine</find>
+      <find>Connect</find>
+      <find>:</find>
+      <find>sendMessage</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/arman/voip/AudioPacket.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/arman/voip/messages/MessageHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/arman/voip/messages/StringMessage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/arman/voip/messages/ServerMessageHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/arman/voip/messages/ClientMessageHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/arman/voip/messages/types/DataMessage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/arman/voip/messages/types/StringMessage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/arman/voip/messages/types/ObjectMessage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/arman/voip/messages/MessageFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/arman/voip/messages/MessageType.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/arman/voip/ChatRoom.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/arman/voip/Room.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/arman/voip/ServerGUI.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/arman/voip/Microphone.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/arman/voip/messages/handlers/MessageHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/arman/voip/messages/FileMessage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/arman/voip/messages/Message.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/arman/voip/messages/handlers/ClientMessageHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/arman/voip/messages/handlers/ServerMessageHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/arman/voip/messages/TextMessage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/arman/voip/Lobby.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/arman/voip/ClientHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/arman/voip/Client.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/arman/voip/ClientGUI.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/arman/voip/AudioInputDevice.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/arman/voip/AudioOutputDevice.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/arman/voip/Server.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/arman/voip/VoIPClientHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/arman/voip/VoIPServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/arman/voip/VoIPClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/arman/voip/AEC.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="951" />
+    <option name="width" value="978" />
+    <option name="height" value="1089" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Cucumber</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="VoIP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VoIP" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ChessGame" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Coen\IdeaProjects\VoIP\src\main\java\com\arman\voip" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.VoIPClient">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientGUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.arman.voip.ClientGUI" />
+      <module name="VoIP" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.arman.voip.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerGUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.arman.voip.ServerGUI" />
+      <module name="VoIP" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.arman.voip.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VoIPClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.arman.voip.VoIPClient" />
+      <module name="VoIP" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.arman.voip.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VoIPServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.arman.voip.VoIPServer" />
+      <module name="VoIP" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.arman.voip.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ServerGUI" />
+      <item itemvalue="Application.ClientGUI" />
+      <item itemvalue="Application.VoIPServer" />
+      <item itemvalue="Application.VoIPClient" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.VoIPClient" />
+        <item itemvalue="Application.VoIPServer" />
+        <item itemvalue="Application.ClientGUI" />
+        <item itemvalue="Application.ServerGUI" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Coen\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="39f5f584-c99f-43b6-82b0-f2b7a6a25419" name="Default" comment="" />
+      <created>1526840474128</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1526840474128</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1098" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Tool Output" order="7" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32912534" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33081082" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19796138" />
+      <window_info anchor="bottom" id="Statistic" order="7" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="ANTLR Preview" order="7" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32912534" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/git/ss/softwaresystems/src/ss/week7/challenge/BadCookieCrypto.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/voip/messages/types/DataMessage.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/voip/messages/types/StringMessage.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/voip/messages/MessageFactory.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/voip/messages/types/ObjectMessage.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/voip/messages/MessageType.java" />
+    <entry file="jar://C:/Development/Java/jdk1.8.0_111/src.zip!/java/io/ObjectOutput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="38" column="43" selection-start-line="38" selection-start-column="43" selection-end-line="38" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Development/Java/jdk1.8.0_111/src.zip!/java/io/Closeable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Development/Java/jdk1.8.0_111/src.zip!/java/io/DataOutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="37" column="6" selection-start-line="37" selection-start-column="6" selection-end-line="37" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Development/Java/jdk1.8.0_111/src.zip!/java/io/DataOutput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="45" column="29" lean-forward="true" selection-start-line="45" selection-start-column="29" selection-end-line="45" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Development/Java/jdk1.8.0_111/src.zip!/java/io/OutputStreamWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="76" column="13" selection-start-line="76" selection-start-column="13" selection-end-line="76" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Development/Java/jdk1.8.0_111/src.zip!/java/io/BufferedWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="58" column="13" selection-start-line="58" selection-start-column="13" selection-end-line="58" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Development/Java/jdk1.8.0_111/src.zip!/java/io/BufferedOutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="37" column="38" lean-forward="true" selection-start-line="37" selection-start-column="38" selection-end-line="37" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Development/Java/jdk1.8.0_111/src.zip!/java/io/OutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="45" column="22" selection-start-line="45" selection-start-column="22" selection-end-line="45" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Development/Java/jdk1.8.0_111/src.zip!/java/io/FilterOutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1982">
+          <caret line="44" column="6" selection-start-line="44" selection-start-column="6" selection-end-line="44" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Development/Java/jdk1.8.0_111/src.zip!/java/io/Writer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="49" column="22" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Development/Java/jdk1.8.0_111/src.zip!/java/io/PrintWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="55" column="36" lean-forward="true" selection-start-line="55" selection-start-column="36" selection-end-line="55" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Development/Java/jdk1.8.0_111/src.zip!/java/lang/Appendable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-707">
+          <caret line="57" column="42" selection-start-line="57" selection-start-column="42" selection-end-line="57" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Development/Java/jdk1.8.0_111/src.zip!/java/io/PrintStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="57" column="18" selection-start-line="57" selection-start-column="15" selection-end-line="57" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Development/Java/jdk1.8.0_111/src.zip!/java/io/ObjectOutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2303">
+          <caret line="1104" column="17" selection-start-line="1104" selection-start-column="17" selection-end-line="1104" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Development/Java/jdk1.8.0_111/src.zip!/java/io/ObjectInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1583">
+          <caret line="295" column="20" selection-start-line="295" selection-start-column="20" selection-end-line="295" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Development/Java/jdk1.8.0_111/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="120" column="8" selection-start-line="120" selection-start-column="8" selection-end-line="120" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/voip/NetworkUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Development/Java/jdk1.8.0_111/jre/lib/rt.jar!/com/sun/xml/internal/ws/resources/ServerMessages.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Development/Java/jdk1.8.0_111/src.zip!/java/io/Serializable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="843">
+          <caret line="168" column="17" selection-start-line="168" selection-start-column="17" selection-end-line="168" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/voip/messages/FileMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/voip/Room.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="568">
+          <caret line="59" column="19" selection-start-line="59" selection-start-column="19" selection-end-line="59" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/voip/messages/TextMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/voip/messages/Message.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/voip/messages/handlers/ClientMessageHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Development/Java/jdk1.8.0_111/src.zip!/java/net/ServerSocket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1008">
+          <caret line="506" column="18" selection-start-line="506" selection-start-column="18" selection-end-line="506" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/voip/ClientGUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1972">
+          <caret line="134" column="25" selection-start-line="134" selection-start-column="25" selection-end-line="134" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Development/Java/jdk1.8.0_111/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="695" column="29" selection-start-line="695" selection-start-column="29" selection-end-line="695" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/voip/AudioOutputDevice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Development/Java/jdk1.8.0_111/src.zip!/java/net/Socket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="1298" column="54" lean-forward="true" selection-start-line="1298" selection-start-column="54" selection-end-line="1298" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Development/Java/jdk1.8.0_111/src.zip!/java/net/SocketOptions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="318" column="36" selection-start-line="318" selection-start-column="36" selection-end-line="318" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/voip/ServerGUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="71" column="43" lean-forward="true" selection-start-line="71" selection-start-column="43" selection-end-line="71" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Development/Java/jdk1.8.0_111/src.zip!/java/io/InputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="99" column="15" selection-start-line="99" selection-start-column="15" selection-end-line="99" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Development/Java/jdk1.8.0_111/src.zip!/javax/sound/sampled/DataLine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="192" column="15" selection-start-line="192" selection-start-column="15" selection-end-line="192" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Development/Java/jdk1.8.0_111/src.zip!/javax/sound/sampled/AudioFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="184" column="11" selection-start-line="184" selection-start-column="11" selection-end-line="184" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/voip/messages/handlers/MessageHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/voip/messages/handlers/ServerMessageHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/voip/VoIPClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="18" column="89" lean-forward="true" selection-start-line="18" selection-start-column="89" selection-end-line="18" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/voip/VoIPServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="23" column="47" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/voip/ClientHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/voip/VoIPClientHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="23" column="45" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/voip/Lobby.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/voip/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-467">
+          <caret line="44" column="27" selection-start-line="44" selection-start-column="27" selection-end-line="44" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/voip/AudioInputDevice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="59" column="59" lean-forward="true" selection-start-line="59" selection-start-column="59" selection-end-line="59" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/voip/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-204">
+          <caret line="32" column="29" lean-forward="true" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/voip/AEC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="Copyright.UI">
+        <settings>
+          <last-edited>campoe</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>platform</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>VoIP</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
